@@ -39,8 +39,8 @@ A Sweden-focused platform for universities and student unions (föreningar) to s
 
 ## Contact
 If you’d like to collaborate or discuss a project:
-- Email: (add your preferred business email here)
-- Website: (add your company site here)
+- Email: contact@fiskycorp.com
+- Website: www.fiskycorp.com
 
 ---
 
